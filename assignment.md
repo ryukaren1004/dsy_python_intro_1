@@ -22,10 +22,10 @@ Ideally, you should regularly run steps 1-3. This will save your work as you go.
 Install Python and a programming text editor and write a program that prints one line other than 'hello world', then take two screen shots and save them to <b>./python-intro1/screen_shot</b> directory. And then submit it as above submit guide. You should use the command line to execute the Python program you wrote in the text editor. Please do *not* use the IDLE Python Shell, the Python Interpreter (>>>), or a shortcut in your text editor to run the code. Later in the class when we start reading files, we will need to be able to run Python programs from particular directories. 
 
 ## Your first coding
-By editing ./src/print_hello_world.py file, write a program that uses a print statement to say 'hello world' as below 'Desired Output'.
+By editing ./src/print_my_name.py file, write a program that uses a print statement to say 'Hi <<your_name>>' as below 'Desired Output'.
 
 Desired Output: 
-            <b>hello world</b>
+            <b>Hi <<your_name>></b>
 
 
 
