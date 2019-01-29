@@ -5,3 +5,5 @@ Here are some [lecture slides](./lectures) on introduction to python and git.
 Here is the [day one assignment](assignment.md).
 
 [Glossary](./notes/glossary.md)
+
+[Excercises](./notes/exercises.md)
