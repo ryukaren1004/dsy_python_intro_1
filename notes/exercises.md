@@ -4,12 +4,12 @@
 
 <b>Exercise 3: What is wrong with the following code:</b>
 
->>> prit 'Hello world!'
-File "<stdin>", line 1
-  prit 'Hello world!'
-                     ^
-SyntaxError: invalid syntax
->>>
+    >>> prit 'Hello world!'
+      File "<stdin>", line 1
+        prit 'Hello world!'
+                          ^
+    SyntaxError: invalid syntax
+    
 
 <b>Exercise 4: What will the following program print out:</b>
 
