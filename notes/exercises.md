@@ -13,10 +13,11 @@
 
 <b>Exercise 4: What will the following program print out:</b>
 
-x = 77
-x = x + 2
-print(x)
-a) 77
-b) 79
-c) x + 2
-d) Error because x = x + 2 is not possible mathematically
+    x = 77
+    x = x + 2
+    print(x)
+
+a) 77<br>
+b) 79<br>
+c) x + 2<br>
+d) Error because x = x + 2 is not possible mathematically<br>
